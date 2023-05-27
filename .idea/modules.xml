@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_03/end/Autocomplete.iml" filepath="$PROJECT_DIR$/02_03/end/Autocomplete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_03/start/Autocomplete (1).iml" filepath="$PROJECT_DIR$/02_03/start/Autocomplete (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_02/end/Autocomplete (2).iml" filepath="$PROJECT_DIR$/05_02/end/Autocomplete (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_02/start/Autocomplete (3).iml" filepath="$PROJECT_DIR$/05_02/start/Autocomplete (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_03/end/Autocomplete (4).iml" filepath="$PROJECT_DIR$/05_03/end/Autocomplete (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_03/start/Autocomplete (5).iml" filepath="$PROJECT_DIR$/05_03/start/Autocomplete (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_03/end/Datepicker.iml" filepath="$PROJECT_DIR$/04_03/end/Datepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_03/start/Datepicker (1).iml" filepath="$PROJECT_DIR$/04_03/start/Datepicker (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_08/end/DragAndDrop.iml" filepath="$PROJECT_DIR$/02_08/end/DragAndDrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_08/start/DragAndDrop (1).iml" filepath="$PROJECT_DIR$/02_08/start/DragAndDrop (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_04/end/Dropdown.iml" filepath="$PROJECT_DIR$/04_04/end/Dropdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_04/start/Dropdown (1).iml" filepath="$PROJECT_DIR$/04_04/start/Dropdown (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_07/end/ExecuteJavascript.iml" filepath="$PROJECT_DIR$/02_07/end/ExecuteJavascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_07/start/ExecuteJavascript (1).iml" filepath="$PROJECT_DIR$/02_07/start/ExecuteJavascript (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercise Files.iml" filepath="$PROJECT_DIR$/.idea/Exercise Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_05/end/FileUpload.iml" filepath="$PROJECT_DIR$/04_05/end/FileUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_05/start/FileUpload (1).iml" filepath="$PROJECT_DIR$/04_05/start/FileUpload (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_01/end/Form.iml" filepath="$PROJECT_DIR$/06_01/end/Form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_01/start/Form (1).iml" filepath="$PROJECT_DIR$/06_01/start/Form (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_02/end/Form (2).iml" filepath="$PROJECT_DIR$/06_02/end/Form (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_02/start/Form (3).iml" filepath="$PROJECT_DIR$/06_02/start/Form (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_03/end/Form (4).iml" filepath="$PROJECT_DIR$/06_03/end/Form (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_03/start/Form (5).iml" filepath="$PROJECT_DIR$/06_03/start/Form (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_04/end/Form (6).iml" filepath="$PROJECT_DIR$/06_04/end/Form (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_04/start/Form (7).iml" filepath="$PROJECT_DIR$/06_04/start/Form (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_02/start/KeyboardAndMouseInput.iml" filepath="$PROJECT_DIR$/02_02/start/KeyboardAndMouseInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_02/end/KeyboardAndMouserInput.iml" filepath="$PROJECT_DIR$/02_02/end/KeyboardAndMouserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_02/end/Radiobuttons.iml" filepath="$PROJECT_DIR$/04_02/end/Radiobuttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_02/start/Radiobuttons (1).iml" filepath="$PROJECT_DIR$/04_02/start/Radiobuttons (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_04/SauceLabsExample.iml" filepath="$PROJECT_DIR$/07_04/SauceLabsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_04/end/ScrollToElement.iml" filepath="$PROJECT_DIR$/02_04/end/ScrollToElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_04/start/ScrollToElement (1).iml" filepath="$PROJECT_DIR$/02_04/start/ScrollToElement (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_05/end/SwitchToActiveWindow.iml" filepath="$PROJECT_DIR$/02_05/end/SwitchToActiveWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_05/start/SwitchToActiveWindow (1).iml" filepath="$PROJECT_DIR$/02_05/start/SwitchToActiveWindow (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_06/end/SwitchToAlert.iml" filepath="$PROJECT_DIR$/02_06/end/SwitchToAlert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_06/start/SwitchToAlert (1).iml" filepath="$PROJECT_DIR$/02_06/start/SwitchToAlert (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_04/TestSample.iml" filepath="$PROJECT_DIR$/01_04/TestSample.iml" />
+    </modules>
+  </component>
+</project>

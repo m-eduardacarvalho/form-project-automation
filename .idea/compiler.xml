@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TestSample" />
+        <module name="KeyboardAndMouserInput" />
+        <module name="SwitchToActiveWindow (1)" />
+        <module name="Form (7)" />
+        <module name="Datepicker (1)" />
+        <module name="Form" />
+        <module name="ExecuteJavascript (1)" />
+        <module name="SwitchToAlert (1)" />
+        <module name="ExecuteJavascript" />
+        <module name="Autocomplete (2)" />
+        <module name="Autocomplete" />
+        <module name="DragAndDrop (1)" />
+        <module name="Autocomplete (4)" />
+        <module name="Radiobuttons" />
+        <module name="Dropdown (1)" />
+        <module name="FileUpload (1)" />
+        <module name="ScrollToElement (1)" />
+        <module name="Form (4)" />
+        <module name="FileUpload" />
+        <module name="Form (2)" />
+        <module name="Form (6)" />
+        <module name="ScrollToElement" />
+        <module name="SauceLabsExample" />
+        <module name="Dropdown" />
+        <module name="Radiobuttons (1)" />
+        <module name="Autocomplete (3)" />
+        <module name="Autocomplete (5)" />
+        <module name="SwitchToActiveWindow" />
+        <module name="DragAndDrop" />
+        <module name="Form (1)" />
+        <module name="KeyboardAndMouseInput" />
+        <module name="SwitchToAlert" />
+        <module name="Form (5)" />
+        <module name="Datepicker" />
+        <module name="Autocomplete (1)" />
+        <module name="Form (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Autocomplete" target="1.8" />
+      <module name="Autocomplete (1)" target="1.8" />
+      <module name="Autocomplete (2)" target="1.8" />
+      <module name="Autocomplete (3)" target="1.8" />
+      <module name="Autocomplete (4)" target="1.8" />
+      <module name="Autocomplete (5)" target="1.8" />
+      <module name="Datepicker" target="1.8" />
+      <module name="Datepicker (1)" target="1.8" />
+      <module name="DragAndDrop" target="1.8" />
+      <module name="DragAndDrop (1)" target="1.8" />
+      <module name="Dropdown" target="1.8" />
+      <module name="Dropdown (1)" target="1.8" />
+      <module name="ExecuteJavascript" target="1.8" />
+      <module name="ExecuteJavascript (1)" target="1.8" />
+      <module name="FileUpload" target="1.8" />
+      <module name="FileUpload (1)" target="1.8" />
+      <module name="Form" target="1.8" />
+      <module name="Form (1)" target="1.8" />
+      <module name="Form (2)" target="1.8" />
+      <module name="Form (3)" target="1.8" />
+      <module name="Form (4)" target="1.8" />
+      <module name="Form (5)" target="1.8" />
+      <module name="Form (6)" target="1.8" />
+      <module name="Form (7)" target="1.8" />
+      <module name="KeyboardAndMouseInput" target="1.8" />
+      <module name="KeyboardAndMouserInput" target="1.8" />
+      <module name="Radiobuttons" target="1.8" />
+      <module name="Radiobuttons (1)" target="1.8" />
+      <module name="SauceLabsExample" target="1.8" />
+      <module name="ScrollToElement" target="1.8" />
+      <module name="ScrollToElement (1)" target="1.8" />
+      <module name="SwitchToActiveWindow" target="1.8" />
+      <module name="SwitchToActiveWindow (1)" target="1.8" />
+      <module name="SwitchToAlert" target="1.8" />
+      <module name="SwitchToAlert (1)" target="1.8" />
+      <module name="TestSample" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
